@@ -1,6 +1,6 @@
 {
   "name": "Friend_Finder",
-  "version": "1.0.0",
+  "version": "8.11.3",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -11,3 +11,4 @@
   "author": "",
   "license": "ISC"
 }
+

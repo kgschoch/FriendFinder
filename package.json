@@ -1,7 +1,9 @@
 {
   "name": "Friend_Finder",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "8.11.3"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +11,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgschoch/FriendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kgschoch/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kgschoch/FriendFinder#readme",
+  "description": ""
 }
